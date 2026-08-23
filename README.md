@@ -169,7 +169,8 @@ else:
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+
+<img width="597" height="423" alt="image" src="https://github.com/user-attachments/assets/275a7d31-2479-4f53-928a-49b39a7ab4be" />
 
 
 ## Result:
